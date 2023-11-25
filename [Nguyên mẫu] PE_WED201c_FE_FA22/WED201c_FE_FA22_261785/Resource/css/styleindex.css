@@ -1,0 +1,79 @@
+
+.logo{
+    height: 70px;
+    object-fit: contain;
+    width: 100px;
+}
+.restau a{
+    color: rgb(22, 161, 161);
+}
+.content1 h1{
+      color: rgb(237, 138, 45);
+      padding-top: 20px;
+}
+.content1 p{
+    font-size: 20px;
+}
+.img1 img{
+    width: 600px;
+    margin: 0px auto;
+}
+.content2 .title{
+    color: rgb(237, 138, 45);
+    border-bottom: 4px solid rgb(6, 110, 110);
+}
+.content2{
+    background-color: rgb(188, 243, 243);
+}
+.cacmon{
+    margin-bottom: 20px;
+    height: 105px;
+}
+.content3{
+    padding: 15px 15px;
+}
+.content3 h1{
+    color: rgb(237, 138, 45);
+}
+.content3 p{
+    font-size: 20px;
+}
+.img1{
+
+    width: 474.67px;
+    height: 316.2px;
+    padding-right: 0;
+}
+.img2{
+  
+    width: 474.67px;
+    height: 316.2px;
+    padding-left: 0;
+}
+.box{
+    margin-left: 118.667px;
+    margin-right: 118.667px;
+}
+.content4{
+    padding: 15px 15px;
+}
+.content4 h1{
+    color: rgb(237, 138, 45);
+}
+.content4 p{
+    font-size: 20px;
+}
+.content4 img{
+    width: 949.33px;
+    height: 634.15px;
+    display: flex;
+    margin: 0 auto;
+}
+.content5{
+    background-color: rgb(17, 154, 146);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    padding: 15px 0px;
+}
